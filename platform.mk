@@ -14,9 +14,6 @@
 # limitations under the License.
 #
 
-### PROPRIETARY VENDOR FILES
-$(call inherit-product, vendor/samsung/universal9830-common/universal9830-common-vendor.mk)
-
 PLATFORM_PATH := device/samsung/universal9830-common
 
 # Device uses high-density artwork where available
