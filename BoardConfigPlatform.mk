@@ -102,7 +102,9 @@ BOARD_ROOT_EXTRA_FOLDERS := \
     dqmdbg \
     omr \
     prism \
-    optics
+    optics \
+    keydata \
+    keyrefuge
 
 # /metadata
 BOARD_USES_METADATA_PARTITION := true
