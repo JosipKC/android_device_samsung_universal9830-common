@@ -148,6 +148,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.lineage.trust@1.0-service
 
+### VIBRATOR
+PRODUCT_PACKAGES += \
+    android.hardware.vibrator@1.3-service.samsung
+
 ### WIFI
 PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service \
